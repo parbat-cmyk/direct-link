@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Woo Empty Cart Button
+ * Plugin Name:       test plugin
  * Plugin URI:        http://www.wpcodelibrary.com
  * Description:       This plugin is use for empty whole cart using single click.
  * Version:           1.3.1
