@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name:       Woo Empty Cart Button
- * Plugin URI:        http://www.wpcodelibrary.com
+ * Plugin Name:       another plugin
+ * Plugin URI:        
  * Description:       This plugin is use for empty whole cart using single click.
  * Version:           1.3.1
  * Author:            WPCodelibrary
- * Author URI:        http://www.wpcodelibrary.com
+ * Author URI:        
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       woo-empty-cart-button
